@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="generation">Generation : %1d</string>
+</resources>
